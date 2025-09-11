@@ -12,7 +12,7 @@ Prerequisites
 
 PHP 7.4 or higher
 MySQL 5.7 or higher
-Composer package manager
+Composer package managers
 
 Installation
 Install the library using Composer:
