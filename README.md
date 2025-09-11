@@ -10,7 +10,7 @@ Features
 
 Prerequisites
 
-PHP 7.4 or higher
+PHP 7.4 or highers
 MySQL 5.7 or higher
 Composer package managers
 
