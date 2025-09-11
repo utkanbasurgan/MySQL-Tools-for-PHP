@@ -56,7 +56,7 @@ Security
 Prepared statements for preventing SQL injection
 Automatic connection encryption
 Connection timeout management
-
+s
 Error Handling
 phpCopytry {
     // Database operations
