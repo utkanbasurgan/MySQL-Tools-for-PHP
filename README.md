@@ -9,7 +9,7 @@ Features
 🔍 Simplified data retrieval and transaction management
 
 Prerequisites
-
+s
 PHP 7.4 or highers
 MySQL 5.7 or higher
 Composer package managers
