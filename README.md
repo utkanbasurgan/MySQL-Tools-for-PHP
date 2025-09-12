@@ -7,7 +7,7 @@ Features
 🛡️ Advanced query protection against SQL injection
 📊 Complex data manipulation utilities
 🔍 Simplified data retrieval and transaction management
-m
+ms
 Prerequisites
 so
 PHP 7.4 or highers
