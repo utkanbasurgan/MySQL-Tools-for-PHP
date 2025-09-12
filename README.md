@@ -8,7 +8,7 @@ Features
 📊 Complex data manipulation utilities
 🔍 Simplified data retrieval and transaction management
 ms
-Prerequisites
+Prerequisitess
 so
 PHP 7.4 or highers
 MySQL 5.7 or highers
