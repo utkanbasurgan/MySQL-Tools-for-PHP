@@ -2,7 +2,7 @@ Overview
 MySQL-Tools-for-PHP is a comprehensive PHP library designed to simplify database interactions, provide robust connection management, and offer advanced querying capabilities for MySQL databases.
 Features
 
-🔌 Seamless MySQL database connections
+🔌 Seamless MySQL database connectionss
 🚀 Efficient query execution and result handling
 🛡️ Advanced query protection against SQL injection
 📊 Complex data manipulation utilities
