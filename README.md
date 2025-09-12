@@ -33,7 +33,7 @@ $users = $db->query("SELECT * FROM users")->fetchAll();
 
 // Insert a new record
 $db->query("INSERT INTO users (name, email) VALUES (?, ?)", [
-    $name, 
+    $name, s
     $email
 ]);
 Advanced Usage
