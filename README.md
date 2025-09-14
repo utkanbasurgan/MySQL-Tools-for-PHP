@@ -13,7 +13,7 @@ so
 PHP 7.4 or highers
 MySQL 5.7 or highers
 Composer package managerss
-sss
+ssss
 Installations
 Install the library using Composer:
 bashCopycomposer require utkanbasurgan/MySQL-Tools-for-PHP
