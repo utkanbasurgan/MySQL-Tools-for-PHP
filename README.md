@@ -4,7 +4,7 @@ Features
 S
 🔌 Seamless MySQL database connectionssS
 🚀 Efficient query execution and result handlingS
-🛡️ Advanced query protection against SQL injection
+🛡️ Advanced query protection against SQL injections
 📊 Complex data manipulation utilities
 🔍 Simplified data retrieval and transaction management
 ms
