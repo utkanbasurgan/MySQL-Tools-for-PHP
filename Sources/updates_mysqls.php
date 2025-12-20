@@ -3,7 +3,7 @@
 // Utkan Başurgan
 //
 //--------------------------------------------------------------------------------------------------------------------------------
-.
+
 function softwares_functions_mysqls_updates($mysql_database, $mysql_table, $mysql_row_name, $mysql_row_value, $mysql_column, $mysql_column_value)
 {
     require(NEPARTH_Roots_Daemons.'/04_settings_daemons/variables_settings/secrets_variables.php');
